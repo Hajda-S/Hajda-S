@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ondrej hajek
-- 🌱 I’m currently learning Python/sql/html/css
+- 🌱 I’m currently learning Python/SQL/html/css
 - 📫 How to reach me hajda886@gmail.com
 
 <!---
